@@ -1,0 +1,36 @@
+# Colors
+# Night Owl color scheme
+# Author: Ahmed Abouzied <ahmedaabouzied44@gmail.com>
+# Inspired by Night Owl VSCode theme by Sarah Drasner <https://github.com/sdras/night-owl-vscode-theme>
+colors:
+  # Default colors
+  primary:
+    background: '0x011627'
+    foreground: '0xd6deeb'
+
+  # Cursor colors
+  cursor:
+   text: '0x1d3b53'
+   cursor: '0x80a4c2'
+
+  # Normal colors
+  normal:
+    black:   '0x011627'
+    red:     '0xEF5350'
+    green:   '0x22da6e'
+    yellow:  '0xaddb67'
+    blue:    '0x82AAFF'
+    magenta: '0xC792EA'
+    cyan:    '0x21c7a8'
+    white:   '0xffffff'
+
+  # Bright colors
+  bright:
+    black:   '0x575656'
+    red:     '0xEF5350'
+    green:   '0x22da6e'
+    yellow:  '0xaddb67'
+    blue:    '0x82AAFF'
+    magenta: '0xC792EA'
+    cyan:    '0x21c7a8'
+    white:   '0xffffff'
